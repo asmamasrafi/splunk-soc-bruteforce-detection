@@ -24,7 +24,7 @@ The objective is to demonstrate how Splunk can be used to identify suspicious au
 
 ## 🏗️ Lab Architecture
 
-![Splunk SOC Lab Architecture](docs/architecture(2).png)
+![Splunk SOC Lab Architecture](docs/architecturee.png)
 ```text
 Kali Linux
     │
