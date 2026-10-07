@@ -95,6 +95,10 @@ A Splunk dashboard is created to provide a visual overview of the authentication
 
 📊 Dashboard
 
+```markdown
+### Dashboard Preview
+
+![Splunk Dashboard](screenshots/dashboard.png)
 The dashboard provides several views of the simulated authentication activity:
 
 Failed Login Attempts by Source IP
