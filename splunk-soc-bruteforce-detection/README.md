@@ -105,6 +105,20 @@ Failed Login Attempts by Source IP
 Login Status
 Targeted Users
 Authentication Activity Timeline
+
+## 📸 Investigation Screenshots
+
+### Brute-Force Detection
+
+![Brute-Force Detection](screenshots/detection.png)
+
+### Investigation
+
+![Investigation](screenshots/investigation.png)
+
+### Authentication Timeline
+
+![Authentication Timeline](screenshots/timeline.png)
 🔎 Key Findings
 
 The investigation identified a source IP generating multiple failed authentication attempts against the same user.
