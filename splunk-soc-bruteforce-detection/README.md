@@ -24,6 +24,7 @@ The objective is to demonstrate how Splunk can be used to identify suspicious au
 
 ## 🏗️ Lab Architecture
 
+![Splunk SOC Lab Architecture](docs/architecture(2).png)
 ```text
 Kali Linux
     │
@@ -38,6 +39,8 @@ Splunk Enterprise
     ├── Investigation
     ├── Timeline Analysis
     └── Dashboard
+
+
 🛠️ Technologies
 Splunk Enterprise
 SPL (Search Processing Language)
